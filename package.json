@@ -1,5 +1,12 @@
 {
   "name": "react-redux-example-1",
+  "author": "Romero Medeiros | rom5jp | romeromedeiros5@gmail.com",
+  "keywords": [
+    "react",
+    "redux",
+    "react-redux"
+  ],
+  "description": "A simple example of how React and Redux work together",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
